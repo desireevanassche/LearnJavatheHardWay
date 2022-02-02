@@ -29,7 +29,7 @@ public class CreatingVariables {
   System.out.println("My name's " + title + firstName + lastName);
   System.out.println("In the zip code " + zip + " gas is " + gasPrice + " per gallon.");
   System.out.println(zip + " is located in " + city + ", " + state + ".");
-  
+
 /* added four more variables, 1 integer, 1 double, and 2 strings to complete the
 study drill */
 }
