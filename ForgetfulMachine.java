@@ -19,5 +19,10 @@ public class ForgetfulMachine {
     System.out.println("Is there anything else you would like to say?");
     keyboard.next();
 
+/* Study drill: when entering any values outside of the ones assigned the program
+"blows up" or crashes. For example, if I enter a decimal for the second question the program
+will not work because it requires an integer not a double. For the third question if I
+entered letters it would not work becuase it required a double, not a string. */
+
   }
 }
