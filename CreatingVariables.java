@@ -23,5 +23,7 @@ public class CreatingVariables {
   System.out.println("Hopefully you have more than $" + checking + "!");
   System.out.println("My name's " + title + firstName + lastName);
 
+  //Variable practice 
+
 }
 }
