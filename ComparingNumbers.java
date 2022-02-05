@@ -34,8 +34,10 @@ public class ComparingNumbers {
 
   if (first != second) {
     System.out.println(first + " is NOT EQUAL TO " + second);
+    System.out.println("Hey. ");
+    /*Study drill 1. adding line 37 without the curly bracket generates an error code
+    adding the curly bracket after this line allows the code to compile.  */
   }
-
 
   }
 }
